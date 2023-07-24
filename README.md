@@ -13,7 +13,7 @@ Group members (3-5) (no Student IDs, only names and github usernames):
 5.
 
 ## Overview
-This group project is designed for you to demonstrate the skills that you have learned in this course.  The final project that you submit in the last week of classes will be a completed mobile application.  Non-functional requirements, especially those associated with production-readiness, will be considered extremely important when marking this project.  You are expected to work in a group of three to five students when completing this project.  Students are not permitted to work alone on the project, as this eliminates one of the learning objectives of this assessment. 
+This group project is designed for you to demonstrate the skills that you have learned in this course.  The final project that you submit in the last week of classes will be a completed mobile application.  Non-functional requirements, especially those associated with production-readiness, will be considered extremely important when marking this project.  You are expected to work in a group of three to five students when completing this project.  Students are not permitted to work alone on the project, as this eliminates one of the learning objectives of this assessment. Peer feedback forms will be required for all three phases of the project to ensure group equity of work.
 
 _**Note:**  Any projects from individual students will not be accepted, except if special permission has been given by the instructor in advance._
 
@@ -62,7 +62,7 @@ When evaluating this project, the instructor and the TAs will attempt to give a 
 The marking will occur in three phases.  The idea behind these phases is that your project should improve over time, so that the final product is comprehensive, professional, and production-ready.  It is hoped that your project will make a great portfolio item for when you apply for jobs.  The phased marking should also prevent groups from waiting until just a few days before the due date before starting their project.
 
 ### Proposal
-The first phase of marking will take place sometime during week 6. This phase will evaluate a written proposal about what you plan to do for your project, including but not limited to the functional requirements and overall project design with UML diagrams (or equivalent). This first marking phase has the purpose of ensuring that your project is reasonable in scope and will incorporate all the necessary components from the course. This evaluation will be worth 10% of your final grade. Unless there is a significant issue of group equity, which should be noted in your README.md, all group members will receive the same grade for this evaluation.
+The first phase of marking will take place sometime during week 6. This phase will evaluate a written proposal about what you plan to do for your project, including but not limited to the functional requirements and overall project design with UML diagrams (or equivalent). This first marking phase has the purpose of ensuring that your project is reasonable in scope and will incorporate all the necessary components from the course. This evaluation will be worth 10% of your final grade. Unless there is a significant issue of group equity, which should be noted in your README.md and peer feedback forms, all group members will receive the same grade for this evaluation.
 
 #### Written Report (10 marks total)
 
@@ -76,7 +76,7 @@ Max Score | Requirement
 2.00 | writing quality
 
 ### Formative Assessment
-The second phase of marking will take place sometime during week 10, meaning that you will need to commit the code for your project by the end of week 9.  This will evaluate whether or not you have included the topics from the first 9 weeks of the course, which will be mostly objective, but will also include a small subjective mark describing the work done, the user interface design, and the code/design quality.  A rubric is listed below, so you can verify in advance which topics will be included.  The purpose of the pre-evaluation is to give you an idea of the quality of your project before the end of the term, so that you can make any adjustments necessary to get the grade you want.  This evaluation will be worth 15% of your final grade. Unless there is a significant issue of group equity, which should be noted in your README.md, all group members will receive the same grade for this evaluation.
+The second phase of marking will take place sometime during week 10, meaning that you will need to commit the code for your project by the end of week 9.  This will evaluate whether or not you have included the topics from the first 9 weeks of the course, which will be mostly objective, but will also include a small subjective mark describing the work done, the user interface design, and the code/design quality.  A rubric is listed below, so you can verify in advance which topics will be included.  The purpose of the pre-evaluation is to give you an idea of the quality of your project before the end of the term, so that you can make any adjustments necessary to get the grade you want.  This evaluation will be worth 15% of your final grade. Unless there is a significant issue of group equity, which should be noted in your README.md and peer feedback forms, all group members will receive the same grade for this evaluation.
 
 #### Functional requirements (12 marks total)
 
@@ -100,7 +100,7 @@ Max Score | Requirement
 
 ### Summative Assessment
 
-The final phase of marking will be carried out at the end of the course.  This evaluation will be carried out more strictly, with higher expectations. In addition to your fully developed application, each member will need to submit a ~5 minute demonstration video presentation of the app individually, which includes a listing of the project components you personally worked on. This evaluation will be worth 30% of your final grade, divided into 25% (mobile application) and 5% (individual demo). Students who do not submit any individual demo will receive a 0 for all parts of the summative assessment.
+The final phase of marking will be carried out at the end of the course.  This evaluation will be carried out more strictly, with higher expectations. In addition to your fully developed application, each member will need to submit a ~5 minute demonstration video presentation of the app individually, which includes a listing of the project components you personally worked on. This evaluation will be worth 30% of your final grade, divided into 25% (mobile application) and 5% (individual demo). Students who do not submit any individual demo or fail to submit a peer feedback form for this phase will receive a 0 for all parts of the summative assessment.
 
 #### Functional requirements (5 marks total)
 
