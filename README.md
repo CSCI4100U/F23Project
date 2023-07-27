@@ -25,7 +25,7 @@ The project topic is, for the most part, up to you.  Therefore, ensure that you 
 
 It is acceptable if you want to do a project related to industry.  If someone you know wants a web application developed, and it lets you demonstrate the skills you’ve learned in this course, then you can use it for your project (even if you plan to sell that web application when you are finished).  Please keep in mind that nothing your prospective buyer says or does will affect the due date or expectations that I have for this project.  No matter what happens, this project is due when it is due, my expectations will be based on the content of this course, and I will expect a certain degree of professionalism and production-readiness.  Anything outside of the scope of this course will likely not earn you much, in terms of marks.  Proceed with caution.
 
-### Basic Requirements
+### Basic Functional Requirements
 
 It is your job to incorporate as many course concepts into your project as possible.  At a minimum, your project must include the following:
 - Dialogs and pickers
@@ -39,7 +39,7 @@ It is your job to incorporate as many course concepts into your project as possi
 The actual size of the project (in terms of the number of screens, number of use cases, or amount of code) will differ from group to group.  Ultimately, the factor being considered is how much work appears to have gone into the project.  Larger groups will be expected to do proportionally more work.
 If you incorporate concepts outside of this course (e.g. game engines, 3D graphics, sound) you will get credit, but in the subjective part of the evaluation only.  Thus, ensure that you meet the minimum requirements, outlined above, first. 
 
-### Optional Requirements
+### Optional Functional Requirements
 
 Projects may receive more marks for implementing the following:
 - Data tables
