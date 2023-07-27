@@ -38,6 +38,7 @@ It is your job to incorporate as many course concepts into your project as possi
 
 The actual size of the project (in terms of the number of screens, number of use cases, or amount of code) will differ from group to group.  Ultimately, the factor being considered is how much work appears to have gone into the project.  Larger groups will be expected to do proportionally more work.
 If you incorporate concepts outside of this course (e.g. game engines, 3D graphics, sound) you will get credit, but in the subjective part of the evaluation only.  Thus, ensure that you meet the minimum requirements, outlined above, first. 
+Also, ensure you do not design your project such that it needs specialized hardware (e.g. robotics) or special access privileges of any kind (e.g. It has a sign in page and I can't create my own account). If your project fails to run correctly when I attempt to run it directly from my Android phone in my office  you will lose marks. It should be immediately obvious to a user of your app how it works without needing to read any instructions.
 
 ### Optional Functional Requirements
 
