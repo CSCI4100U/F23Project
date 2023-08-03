@@ -77,7 +77,7 @@ Max Score | Requirement
 2.00 | code design (e.g. UML)
 2.00 | mockup of user interface
 1.00 | writing quality
-1.00 | feasibility of proposal
+1.00 | scope of project is reasonable for the number of group members
 
 ### Formative Assessment
 The second phase of marking will take place sometime during week 10, meaning that you will need to commit the code for your project by the end of week 9.  This will evaluate whether or not you have included the topics from the first weeks of the course, which will be mostly objective, but will also include a small subjective mark describing the work done, the user interface design, and the code/design quality.  A rubric is listed below, so you can verify in advance which topics will be included.  The purpose of the pre-evaluation is to give you an idea of the quality of your project before the end of the term, so that you can make any adjustments necessary to get the grade you want.  This evaluation will be worth 15% of your final grade. Unless there is a significant issue of group equity, which should be noted in your README.md and peer feedback forms, all group members will receive the same grade for this evaluation.
