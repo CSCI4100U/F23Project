@@ -53,7 +53,7 @@ Projects will receive more marks for implementing some number of the following:
 - Internationalization
 - Camera
 
-No one of these is specifically required for the project, and these should only be included if they serve a significant purpose for your application's typical use cases.
+No individual one of these is specifically required for the project, and these should only be included if they serve a significant purpose for your application's typical use cases.
 
 ### Game Development Alternative
 
