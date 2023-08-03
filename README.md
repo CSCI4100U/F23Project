@@ -44,7 +44,7 @@ Also, ensure you do not design your project such that it needs specialized hardw
 
 ### Optional Functional Requirements
 
-Projects may receive more marks for implementing the following:
+Projects will receive more marks for implementing some number of the following:
 - Data tables
 - Charts
 - Maps
@@ -53,7 +53,7 @@ Projects may receive more marks for implementing the following:
 - Internationalization
 - Camera
 
-None of these are required for the project, and should only be included if they serve a significant purpose for your application's typical use cases.
+No one of these is specifically required for the project, and these should only be included if they serve a significant purpose for your application's typical use cases.
 
 ### Game Development Alternative
 
@@ -104,7 +104,7 @@ Max Score | Requirement
 
 ### Summative Assessment
 
-The final phase of marking will be carried out at the end of the course.  This evaluation will be carried out more strictly, with higher expectations. In addition to your fully developed application, each member will need to submit a ~5 minute demonstration video presentation of the app individually, which includes a listing of the project components you personally worked on. This evaluation will be worth 30% of your final grade, divided into 25% (mobile application) and 5% (individual demo). Students who do not submit any individual demo or fail to submit a peer feedback form for this phase will receive a 0 for all parts of the summative assessment.
+The final phase of marking will be carried out at the end of the course.  This evaluation will be carried out more strictly, with higher expectations. In addition to your fully developed application, each member will need to submit a ~5 minute demonstration video presentation of the app individually, which includes a listing of the project components you personally worked on. This evaluation will be worth 30% of your final grade, divided into 25% (mobile application, shared by the group) and 5% (individual demo). Students who do not submit any individual demo will receive a 0 for all parts of the summative assessment.
 
 #### Functional requirements (5 marks total)
 
@@ -122,9 +122,9 @@ Max Score | Requirement
 
 Max Score | Requirement
 --------- | ----------- 
-5.00 | code and design quality
+3.00 | code and design quality
 5.00 | user interface design and usability
-10.00 | amount of work done
+12.00 | amount of work done
 
 #### Individual Demo (5 marks total)
 
