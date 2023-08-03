@@ -57,7 +57,7 @@ No individual one of these is specifically required for the project, and these s
 
 ### Game Development Alternative
 
-Students who want to create a mobile game have the option to do so, but this topic won’t be covered until near the end of the course.  Therefore, it is expected that this option will require significant self-learning to get a head start before the main lectures/examples covering game development.  The objective requirements, listed above, will be relaxed quite a bit for groups developing a game, but the expectations are just as high.  If you wish to pursue this option, please contact the instructor so that we can work out a set of expectations for the major project.
+Students who want to create a mobile game have the option to do so, but this topic won’t be covered until near the end of the course.  Therefore, it is expected that this option will require significant self-learning to get a head start before the main lectures/examples covering game development.  The functional requirements, listed above, will be relaxed quite a bit for groups developing a game, but the expectations are just as high.  If you wish to pursue this option, please contact the instructor so that we can work out a set of expectations for the major project.
 
 ### Evaluation
 When evaluating this project, the instructor and the TAs will attempt to give a metric to the amount of work involved, considering several important factors (design, cleanliness of code, code comments, variable/function naming, security checks, error checking, usability/user-friendliness/aesthetic, accessibility, and performance).  This metric will be affected by the size of your group (i.e. what will be evaluated is the average work done per group member).
